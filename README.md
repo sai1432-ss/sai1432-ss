@@ -90,19 +90,12 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sai1432-ss/sai1432-ss/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📌 Featured Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=REPO_NAME&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=REPO_NAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=SaaSApplication&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=paymentgateway&theme=radical" />
 </p>
 
 ---
