@@ -78,14 +78,13 @@
 
 
 
-## 📈 Contribution Graph
+## 📅 Monthly Contribution Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai1432-ss&theme=react-dark" />
+  <img src="https://metrics.lecoq.io/sai1432-ss?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata" />
 </p>
 
 ---
-
 
 
 
