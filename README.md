@@ -10,7 +10,7 @@
 - 🎓 B.Tech Student  
 - 💻 Backend & Full Stack Developer  
 - 🔭 Learning **REST APIs, Full Stack & DSA**  
-- 🧠 Interested in **AI & SDE roles**  
+- 🧠 Interested in **SDE roles**  
 
 ---
 
