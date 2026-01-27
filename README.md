@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,mysql,docker,git,vscode" />
 </p>
 
 ---
@@ -91,14 +91,7 @@
 ---
 
 
-## 📌 Featured Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=SaaSApplication&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=paymentgateway&theme=radical" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
