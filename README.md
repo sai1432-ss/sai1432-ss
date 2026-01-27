@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS-Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
   
 </p>
 
@@ -76,13 +76,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sai1432-ss&theme=radical&no-frame=true&margin-w=15" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
