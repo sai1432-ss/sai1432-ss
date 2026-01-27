@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rajapanthula Sai Satish</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;+%26+Java+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;Python+%26+Java+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai1432-ss&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
@@ -10,21 +14,20 @@
 - 🎓 B.Tech Student  
 - 💻 Backend & Full Stack Developer  
 - 🔭 Learning **REST APIs, Full Stack & DSA**  
-- 🧠 Interested in **SDE roles**  
+- 🎯 Aspiring **SDE**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -33,7 +36,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
-### Backend & Databases
+### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -41,12 +44,16 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Tools
+### 🧰 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,express,mongodb,mysql,docker,git" />
 </p>
 
 ---
@@ -67,6 +74,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sai1432-ss&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -75,8 +90,26 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sai1432-ss/sai1432-ss/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=REPO_NAME&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sai1432-ss&repo=REPO_NAME&theme=radical" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
-<p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/saisatishrajapanthula">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
