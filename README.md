@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
+  
 </p>
 
 <p align="center">
