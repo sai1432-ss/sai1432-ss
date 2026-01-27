@@ -1,0 +1,32 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once every day
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: sai1432-ss
+
+          # Base settings
+          template: classic
+          base: activity
+          base_activity: true
+          base_community: false
+          base_repositories: false
+          base_metadata: false
+
+          # MONTH-WISE CONTRIBUTION CALENDAR
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: full-year
+
+          # Timezone
+          config_timezone: Asia/Kolkata
+
+          # Output file
+          filename: github-metrics.svg
