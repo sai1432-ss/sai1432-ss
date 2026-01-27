@@ -13,22 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Monthly Contribution Metrics
+      - name: Generate Clean Monthly Calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: sai1432-ss
 
-          # Template
-          template: classic
-          base: activity
+          # Minimal base (no 3D, no clutter)
+          base: ""
 
-          # MONTH-WISE CALENDAR
+          # CLEAN MONTH-WISE CALENDAR (2D)
           plugin_isocalendar: true
           plugin_isocalendar_duration: full-year
 
-          # Timezone
+          # Clean visuals
           config_timezone: Asia/Kolkata
+          config_display: large
+          config_animations: false
 
-          # Output file
+          # Output
           filename: github-metrics.svg
