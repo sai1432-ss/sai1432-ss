@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajapanthula Sai Satish</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;Python+%26+Java+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;Java+Enthusiast" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS-Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
   
 </p>
 
