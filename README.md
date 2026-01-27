@@ -78,9 +78,8 @@
 ## 📅 Monthly Contribution Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sai1432-ss/sai1432-ss/main/github-metrics.svg" />
+  <img src="https://metrics.lecoq.io/sai1432-ss?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia/Kolkata&config.display=large" />
 </p>
-
 
 ---
 
