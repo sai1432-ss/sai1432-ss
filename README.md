@@ -24,7 +24,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -50,8 +50,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS Code-46E3B7?style=for-the-badge&logo=vscode&logoColor=black"/>
-  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -63,30 +62,26 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sai1432-ss&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sai1432-ss&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai1432-ss&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sai1432-ss&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai1432-ss&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai1432-ss&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-
 
 ## 📅 Monthly Contribution Overview
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/sai1432-ss?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia/Kolkata" />
+  <img src="https://metrics.lecoq.io/sai1432-ss?template=classic&base.activity=1&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia/Kolkata&config.display=large" />
 </p>
 
 ---
-
-
 
 ## 🌐 Connect With Me
 
