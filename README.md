@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajapanthula Sai Satish</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Developer;Full+Stack+Learner;Python+%26+Java+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Developer;Full+Stack+Developer;+%26+Java+Enthusiast" />
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 💻 Backend & Full Stack Developer  
 - 🔭 Learning **REST APIs, Full Stack & DSA**  
 - 🧠 Interested in **AI & SDE roles**  
-- 🏆 Hackathon participant  
 
 ---
 
@@ -21,6 +20,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=c&logoColor=white"/>
+  
 </p>
 
 ### Frontend
